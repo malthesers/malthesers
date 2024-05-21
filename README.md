@@ -1,5 +1,5 @@
-<h1 align="center">yo</h1>
-
+<h1 align="center">Hi, I'm Malthe.</h1>
+<p align="center">A <b>front-end web developer</b> looking for an <b>internship</b>.</p>
 <!--
 **malthesers/malthesers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
